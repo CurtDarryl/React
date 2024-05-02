@@ -1,0 +1,50 @@
+.view-details .btn:hover {
+  transform: scale(1.1);
+}
+
+.view-details .btn {
+  font-size: 17px;
+  box-shadow: none;
+}
+
+.btn {
+  border: none;
+  font-size: 0.8em;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.6);
+}
+
+.btn:hover {
+  transform: scale(1.05);
+}
+
+tbody tr td {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+th {
+  text-align: center;
+  font-weight: 500;
+}
+
+.draft-btn {
+  background-color: #0d6dfde5;
+  color: white;
+}
+.draft-btn:hover {
+  color: white;
+  background-color: #0d6efd;
+}
+.return-btn {
+  background-color: #dc3546d7;
+  color: white;
+}
+
+.return-btn:hover {
+  background-color: #dc3546;
+  color: white;
+}
+
+.ticket-name {
+  font-size: 1.5em;
+}

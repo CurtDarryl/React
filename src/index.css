@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.body {
+  margin: 0 0 0 16em;
+}
+
+.navbar-logo {
+  max-width: 8rem;
+  margin: 1em 1em 0.5rem 1em;
+}
